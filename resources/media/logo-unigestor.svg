@@ -1,0 +1,17 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <!-- Libro abierto -->
+    <path d="M50 140V70C50 65 55 63 60 65L90 75V145L60 135C55 133 50 135 50 140Z" fill="#1B263B"/>
+    <path d="M150 140V70C150 65 145 63 140 65L110 75V145L140 135C145 133 150 135 150 140Z" fill="#1B263B"/>
+    <line x1="100" y1="70" x2="100" y2="145" stroke="#415A77" stroke-width="2"/>
+    
+    <!-- Sombrero de graduación -->
+    <polygon points="100,40 60,55 100,70 140,55" fill="#415A77"/>
+    <line x1="100" y1="70" x2="100" y2="85" stroke="#E0E1DD" stroke-width="2"/>
+    <circle cx="100" cy="85" r="3" fill="#E0E1DD"/>
+  </g>
+  <!-- Texto -->
+  <text x="50%" y="180" text-anchor="middle" fill="#0D1B2A" font-size="16" font-family="Arial, sans-serif" font-weight="bold">
+    UniGestor
+  </text>
+</svg>
